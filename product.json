@@ -7,12 +7,54 @@
   },
   {
     "productId": 2,
-    "productName": "Chicken manchuria",
+    "productName": "Chicken Manchuria",
     "description": "Preferred by Non Vegetarians",
     "Stock": true
   },
   {
     "productId": 4,
+    "productName": "Chicken Stew",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "Paneer Butter Masala",
+    "description": "Popular vegetarian main course",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Fish Fry",
+    "description": "Crispy seafood starter",
+    "Stock": true
+  },
+  {
+    "productId": 7,
+    "productName": "Egg Fried Rice",
+    "description": "Quick and tasty rice dish",
+    "Stock": false
+  },
+  {
+    "productId": 8,
+    "productName": "Masala Dosa",
+    "description": "South Indian breakfast special",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Veg Burger",
+    "description": "Fast food vegetarian option",
+    "Stock": true
+  },
+  {
+    "productId": 10,
+    "productName": "Chicken Biryani",
+    "description": "Most loved rice dish",
+    "Stock": true
+  },
+  {
+    "productId": 11,
     "productName": "Biriyani",
     "description": "Preferred by Non Vegetarians",
     "Stock": true
