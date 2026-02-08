@@ -1,0 +1,20 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Preferred by Both Vegetarains and Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 4,
+    "productName": "Biriyani",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  }
+]
